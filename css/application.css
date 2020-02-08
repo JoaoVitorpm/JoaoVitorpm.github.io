@@ -8,11 +8,12 @@ body{
     font-family: sans-serif;
 }
 main {
-    background: #9D0F0F;
+    background: #00000054;
     padding: 5px 40px;
     margin-top: 20px;
     border-radius: 10px;
   }
+
 
 h1{
     text-align: center;
